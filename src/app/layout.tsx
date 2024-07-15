@@ -32,7 +32,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <header>
-          <div className="bg-black p-8 rounded shadow-md text-center text-white">
+          <div className="bg-purple-suns p-8 rounded shadow-md text-center text-white">
             <h1 className="text-3xl font-bold mb-4 text-white">
               Anchor Escrow UI
             </h1>
